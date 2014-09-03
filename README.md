@@ -1,4 +1,4 @@
 Hello everybody
 ===============
 
-I'm testing how works Git
+I'm testing how git works
